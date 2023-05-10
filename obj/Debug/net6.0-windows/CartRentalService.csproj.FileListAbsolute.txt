@@ -1,0 +1,17 @@
+C:\Users\Dell 5590\source\repos\CartRentalService\CartRentalService\bin\Debug\net6.0-windows\CartRentalService.exe
+C:\Users\Dell 5590\source\repos\CartRentalService\CartRentalService\bin\Debug\net6.0-windows\CartRentalService.deps.json
+C:\Users\Dell 5590\source\repos\CartRentalService\CartRentalService\bin\Debug\net6.0-windows\CartRentalService.runtimeconfig.json
+C:\Users\Dell 5590\source\repos\CartRentalService\CartRentalService\bin\Debug\net6.0-windows\CartRentalService.dll
+C:\Users\Dell 5590\source\repos\CartRentalService\CartRentalService\bin\Debug\net6.0-windows\CartRentalService.pdb
+C:\Users\Dell 5590\source\repos\CartRentalService\CartRentalService\obj\Debug\net6.0-windows\CartRentalService.csproj.AssemblyReference.cache
+C:\Users\Dell 5590\source\repos\CartRentalService\CartRentalService\obj\Debug\net6.0-windows\CartRentalService.Form1.resources
+C:\Users\Dell 5590\source\repos\CartRentalService\CartRentalService\obj\Debug\net6.0-windows\CartRentalService.csproj.GenerateResource.cache
+C:\Users\Dell 5590\source\repos\CartRentalService\CartRentalService\obj\Debug\net6.0-windows\CartRentalService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell 5590\source\repos\CartRentalService\CartRentalService\obj\Debug\net6.0-windows\CartRentalService.AssemblyInfoInputs.cache
+C:\Users\Dell 5590\source\repos\CartRentalService\CartRentalService\obj\Debug\net6.0-windows\CartRentalService.AssemblyInfo.cs
+C:\Users\Dell 5590\source\repos\CartRentalService\CartRentalService\obj\Debug\net6.0-windows\CartRentalService.csproj.CoreCompileInputs.cache
+C:\Users\Dell 5590\source\repos\CartRentalService\CartRentalService\obj\Debug\net6.0-windows\CartRentalService.dll
+C:\Users\Dell 5590\source\repos\CartRentalService\CartRentalService\obj\Debug\net6.0-windows\refint\CartRentalService.dll
+C:\Users\Dell 5590\source\repos\CartRentalService\CartRentalService\obj\Debug\net6.0-windows\CartRentalService.pdb
+C:\Users\Dell 5590\source\repos\CartRentalService\CartRentalService\obj\Debug\net6.0-windows\CartRentalService.genruntimeconfig.cache
+C:\Users\Dell 5590\source\repos\CartRentalService\CartRentalService\obj\Debug\net6.0-windows\ref\CartRentalService.dll
